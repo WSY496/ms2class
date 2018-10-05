@@ -1,3 +1,3 @@
 ,Random Forest,LightGBM,XGBoost,Keras
-Feature_Selection_Positive,72.32,84.52,83.04,66.37
-Feature_Selection_Negative,72.34,74.47,74.47,64.89
+Feature_Selection_Positive,75.0,84.82,80.95,64.88
+Feature_Selection_Negative,73.4,72.34,73.4,62.77
