@@ -75,4 +75,3 @@ clf.fit(X_train, y_train)
 
 # accuracy
 t = clf.best_estimater_
-pickle.dump(t, open('../model_gs/LGBM_best_params_fs.sav', 'wb'))
