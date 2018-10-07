@@ -1,0 +1,16 @@
+,HCD35_Positive,HCD45_Positive,HCD65_Positive,HCD35_Negative,HCD45_Negative,HCD65_Negative
+XGBoost + Ramdom Forest,79.46,77.68,76.79,76.6,74.47,73.4
+XGBoost + LightGBM,84.52,82.14,80.36,76.6,71.28,72.34
+XGBoost + Keras,80.36,76.79,79.76,79.79,70.21,72.34
+Random Forest + LightGBM,80.65,80.36,78.87,74.47,76.6,72.34
+Random Forest + Keras,74.7,74.7,73.51,71.28,71.28,71.28
+LightGBM+Keras,81.85,80.06,81.25,74.47,72.34,69.15
+XGBoost + Random Forest + LightGBM,82.44,80.95,78.57,78.72,72.34,71.28
+XGBoost + Random Forest + Keras,81.85,78.57,79.17,75.53,74.47,74.47
+XGBoost + LightGBM + Keras,84.23,81.55,80.36,80.85,73.4,75.53
+Random Forest + LightGBM + Keras,82.74,78.87,80.06,75.53,73.4,69.15
+XGBoost + Random Forest + LightGBM + Keras,83.93,80.65,79.17,77.66,73.4,73.4
+Xgboost,80.06,78.27,77.08,77.66,72.34,74.47
+Random Forest,71.73,70.83,65.18,71.28,67.02,64.89
+LightGBM,84.52,81.25,80.36,73.4,70.21,68.09
+Keras,67.56,66.07,69.05,65.96,64.89,65.96
