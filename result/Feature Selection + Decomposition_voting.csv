@@ -1,0 +1,12 @@
+,Feature Selection + Decomposition_Positive,Feature Selection + Decomposition_Negative
+XGBoost + Ramdom Forest,80.95,78.72
+XGBoost + LightGBM,83.63,78.72
+XGBoost + Keras,79.76,77.66
+Random Forest + LightGBM,84.52,76.6
+Random Forest + Keras,76.19,71.28
+LightGBM+Keras,85.71,77.66
+XGBoost + Random Forest + LightGBM,82.74,78.72
+XGBoost + Random Forest + Keras,80.95,76.6
+XGBoost + LightGBM + Keras,85.71,77.66
+Random Forest + LightGBM + Keras,84.82,77.66
+XGBoost + Random Forest + LightGBM + Keras,84.82,78.72

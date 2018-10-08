@@ -1,0 +1,16 @@
+,Decomposition + HCD35_Positive,Decomposition + HCD35_Negative
+XGBoost + Ramdom Forest,81.55,75.53
+XGBoost + LightGBM,84.23,75.53
+XGBoost + Keras,77.98,72.34
+Random Forest + LightGBM,84.52,72.34
+Random Forest + Keras,75.6,64.89
+LightGBM+Keras,82.74,73.4
+XGBoost + Random Forest + LightGBM,84.82,77.66
+XGBoost + Random Forest + Keras,81.25,73.4
+XGBoost + LightGBM + Keras,85.42,75.53
+Random Forest + LightGBM + Keras,83.33,74.47
+XGBoost + Random Forest + LightGBM + Keras,84.82,76.6
+Xgboost,80.95,75.53
+Random Forest,73.51,65.96
+LightGBM,83.04,75.53
+Keras,68.75,59.57
