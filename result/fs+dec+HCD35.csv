@@ -1,16 +1,16 @@
 ,Feature_Selection_Positive,Feature_Selection_Negative,Decomposition + HCD35_Positive,Decomposition + HCD35_Negative,Feature Selection + Decomposition_Positive,Feature Selection + Decomposition_Negative
-XGBoost + LightGBM + Keras,85.71,73.4,83.33,76.6,83.63,77.66
-LightGBM+Keras,84.82,78.72,80.36,72.34,83.63,75.53
-Random Forest + LightGBM + Keras,84.82,76.6,81.55,72.34,83.04,75.53
+XGBoost + LightGBM + Keras,85.71,73.4,83.33,76.6,85.42,77.66
+LightGBM+Keras,84.82,78.72,80.36,72.34,85.71,77.66
+Random Forest + LightGBM + Keras,84.82,76.6,81.55,72.34,84.52,77.66
 LightGBM,84.52,72.34,83.04,75.53,85.12,76.6
-XGBoost + Random Forest + LightGBM + Keras,84.52,73.4,82.74,75.53,84.23,78.72
+XGBoost + Random Forest + LightGBM + Keras,84.52,73.4,82.74,75.53,84.82,78.72
 Random Forest + LightGBM,83.63,73.4,84.52,72.34,84.52,76.6
 XGBoost + LightGBM,83.63,74.47,84.23,75.53,83.63,78.72
 XGBoost + Random Forest + LightGBM,83.63,73.4,84.82,77.66,83.04,78.72
 XGBoost,81.25,73.4,80.95,75.53,80.36,75.53
-XGBoost + Random Forest + Keras,80.06,74.47,79.17,74.47,82.14,77.66
+XGBoost + Random Forest + Keras,80.06,74.47,79.17,74.47,80.95,76.6
 XGBoost + Ramdom Forest,79.76,74.47,81.55,75.53,80.95,78.72
-XGBoost + Keras,78.87,75.53,78.57,75.53,80.65,75.53
-Random Forest + Keras,73.81,74.47,75.6,69.15,76.79,69.15
+XGBoost + Keras,78.87,75.53,78.57,75.53,79.76,77.66
+Random Forest + Keras,73.81,74.47,75.6,69.15,76.19,71.28
 Random Forest,71.43,70.21,73.51,65.96,77.98,70.21
-Keras,61.61,61.7,68.15,62.77,64.88,59.57
+Keras,61.61,61.7,68.15,62.77,63.1,62.77
