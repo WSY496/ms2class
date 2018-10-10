@@ -40,6 +40,7 @@ config.rst
 
 package-lock.json
 
+model/*.h5
 csv/
 data/*
 !*.zip
